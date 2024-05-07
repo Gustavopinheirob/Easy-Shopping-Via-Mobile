@@ -1,0 +1,2 @@
+<h1>Freelance</h1>
+<p>Neste projeto, foram empregadas as linguagens HTML, CSS e JavaScript para conceber uma réplica de um website de uma empresa especializada em serviços de encanamento. A página apresenta um layout composto por cabeçalho, corpo principal e um formulário interativo. A execução deste projeto não apenas demonstrou o desenvolvimento das minhas habilidades, mas também me incentivou a explorar novos horizontes de conhecimento, buscando constantemente aprimorar minhas capacidades.</p>
